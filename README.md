@@ -5,7 +5,7 @@
 <p> Finance Engineering - команда відповідає за забезпечення фінансового супроводу діяльності продуктів Solidgate. 
 <p> Склад команди - Tech Lead, Product Onwer, 3 Senior Backend Developers.</p>
 
-#### &#128205; Технології, з якими ти будеш працювати: 
+#### &#128509; Технології, з якими ти будеш працювати: 
 <p> Kotlin (K/JVM), Spring Boot, PostgreSQL, Hibernate, RabbitMQ, Buf, Apache Kafka, AWS, Docker, Grafana Monitoring, Gitlab. </p>
 
 #### &#10067; Чому це цікаво?
